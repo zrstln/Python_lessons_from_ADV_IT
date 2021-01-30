@@ -1,0 +1,39 @@
+ Том в устройстве C имеет метку Новый том
+ Серийный номер тома: FA0B-700A
+
+ Содержимое папки C:\Users\036-022-0801.0036PFRRU\PycharmProjects\pythonProject
+
+19.01.2021  14:24    <DIR>          .
+19.01.2021  14:24    <DIR>          ..
+19.01.2021  14:05    <DIR>          .idea
+18.01.2021  13:40             1 448 hero.py
+11.01.2021  09:40                58 Lesson-1-Hello_world.py
+13.01.2021  13:16               624 Lesson-10-if-elif-else.py
+13.01.2021  13:51               655 Lesson-11-Dictionary.py
+13.01.2021  14:30               545 Lesson-12-Dictionery.py
+13.01.2021  15:40               554 Lesson-13-Input.py
+14.01.2021  10:06               741 Lesson-14-Functions1.py
+14.01.2021  10:52               729 Lesson-15-Functions2.py
+14.01.2021  11:25               244 lesson-16-Module.py
+14.01.2021  13:59               358 Lesson-17-Class1.py
+14.01.2021  14:36               157 Lesson-18-Class2.py
+19.01.2021  08:53               601 Lesson-19-Files.py
+19.01.2021  09:50               750 Lesson-20-Exceptions.py
+19.01.2021  11:45             1 035 Lesson-21-JSON.py
+19.01.2021  14:08               347 Lesson-22-Arguments.py
+19.01.2021  14:16                 0 Lesson-23-RegExpression1.py
+11.01.2021  14:36               318 Lesson-4-variables.py
+11.01.2021  15:26               347 Lesson-5-Strings.py
+11.01.2021  16:14                74 Lesson-6-Numbers.py
+11.01.2021  16:37               214 Lesson-7-loops.py
+12.01.2021  10:30               539 Lesson-8-Lists1.py
+12.01.2021  11:43             1 107 Lesson-9-Lists2.py
+11.01.2021  10:27               544 main.py
+14.01.2021  11:18               101 mymodule.py
+19.01.2021  14:24    <DIR>          new dir
+19.01.2021  14:25                 0 test.txt
+19.01.2021  13:33               185 user_settings.txt
+11.01.2021  10:24    <DIR>          venv
+18.01.2021  13:40    <DIR>          __pycache__
+              26 файлов         12 275 байт
+               6 папок  417 153 548 288 байт свободно

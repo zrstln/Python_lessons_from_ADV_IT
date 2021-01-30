@@ -1,0 +1,1 @@
+[{"PlayerName": "Vladimir Girinovsky", "Score": 345, "Awards": ["Moscow", "Novgorod", "Sochi"]}, {"PlayerName": "Vladimir Zelensky", "Score": 163, "Awards": ["Kiev", "Lviv", "Odessa"]}]
